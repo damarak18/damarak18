@@ -29,7 +29,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damarak18&layout=compact&theme=tokyonight&hide_border=true)
+![TELUGU,ENGLISH,TAMIL](https://github-readme-stats.vercel.app/api/top-langs/?username=damarak18&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎯 My Goals
 
