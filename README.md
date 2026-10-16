@@ -1,47 +1,18 @@
+# 💫 About Me:
+👨‍💻 Hi, I'm Damarak Nadh, an aspiring Python Developer.<br>🐍 I'm passionate about programming and software development.<br>🌱 I'm currently learning Python and improving my coding skills.<br>💻 I have knowledge of HTML, CSS, and JavaScript.<br>🚀 I enjoy learning new technologies and building creative projects.<br>🧠 I'm interested in problem-solving and developing practical applications.<br>📚 I'm continuously improving my technical knowledge and programming fundamentals.<br>🎯 My goal is to become a skilled Python Developer.<br>🤝 I'm open to collaboration and learning opportunities.<br>✨ I believe in continuous learning, hard work, and growth as a developer.
 
-# Hi, I'm Damarak Nadh 👋
 
-### 🐍 Aspiring Python Developer | Fresher
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1MjKgcAVFW/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=eybt1cg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/damarak-nadh-b87471374) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Arya345675) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndamarak@gmail.com) 
 
-I'm an aspiring Python Developer passionate about programming,
-problem-solving, and building useful applications. I have a
-foundation in **HTML, CSS, and JavaScript**, and I'm continuously
-working to expand my technical skills.
-
-- 🌱 Currently learning Python and strengthening my programming fundamentals.
-- 💻 Interested in software development and web technologies.
-- 🎯 Focused on building practical projects and growing as a developer.
-- 🤝 Open to collaboration, learning opportunities, and connecting with developers.
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-learning-blue?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5- orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow?logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-### 📚 Currently Learning
-
-- Python fundamentals and object-oriented programming.
-- Data structures, algorithms, and problem-solving.
-- Building projects to apply my programming knowledge.
-
-### 🚀 Goals
-
-- Build practical Python applications.
-- Create meaningful projects for my portfolio.
-- Contribute to open-source projects as my skills grow.
-
-### 📌 Featured Projects
-
-I'm working toward building projects that demonstrate my skills
-and learning journey. Check back as I add more projects!
-
-### 🤝 Let's Connect
-
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=damarak18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=damarak18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=damarak18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=damarak18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💡 *"Consistent learning, practical coding, and continuous improvement."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
